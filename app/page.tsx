@@ -277,7 +277,7 @@ export default function AuthScreen() {
             &copy; {new Date().getFullYear()} Lucianna Saraiva. Todos os direitos reservados.
           </p>
           <p className="text-[#975956]/50 text-[9px] sm:text-[10px] uppercase tracking-[0.2em] font-bold flex items-center gap-1">
-            Feito por <a href="#" target="_blank" rel="noopener noreferrer" className="text-[#bd9a4f] hover:text-[#975956] transition-colors duration-300">Tatsujin Group</a>
+            Feito por <a href="https://www.instagram.com/tatsujingroup/" target="_blank" rel="noopener noreferrer" className="text-[#bd9a4f] hover:text-[#975956] transition-colors duration-300">Tatsujin Group</a>
           </p>
         </div>
 
