@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Portal - Dra. Luciana Saraiva",
-  description: "Portal exclusivo de receitas e nutrição integrativa para pacientes da Dra. Luciana Saraiva.",
+  title: "Portal - Dra. Lucianna Saraiva",
+  description: "Portal exclusivo de receitas e nutrição integrativa para pacientes da Dra. Lucianna Saraiva.",
   icons: {
     icon: "/logoinicio.jpg",
   }
